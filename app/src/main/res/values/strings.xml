@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Notifications</string>
+    <string name="channel_name">Myaarogya</string>
+    <string name="channel_description">Myaarogya center</string>
+</resources>
